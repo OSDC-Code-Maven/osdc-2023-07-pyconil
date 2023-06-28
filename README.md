@@ -25,7 +25,7 @@ During this workshop we'll go over the basics of contributing to an open source 
 You are expected to bring your own computer that already has Python installed and preferably also Docker, to make our tasks easier. You are expected to already have an account on GitHub and your picture or avatar added to it.
 
 
-## Session 1:
+## Session:
 
 Contributing to a complex project is, well, complex.
 We'll start small and hopefull by the end of the day you will have conbtributed to at least one project
@@ -36,6 +36,11 @@ and you have the understanding of how to contribute to some other project
     * Introduction to Python testing.
     * Show GitHub Actions running Python tests.
     * Setting up local environment with or without Docker
+
+## Communities
+
+* [OSDC](https://osdc.code-maven.com/community) - [Zulip](https://osdc.zulipchat.com/)
+* [Maakaf](https://github.com/maakaf)
 
 ## Assignments
 
