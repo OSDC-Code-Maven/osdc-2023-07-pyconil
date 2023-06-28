@@ -33,9 +33,17 @@ and you have the understanding of how to contribute to some other project
 
 * What will we do today?
     * Pull-request to this project - a JSON file, CI, fixing
-    * Python testing demo
+    * Introduction to Python testing.
+    * Show GitHub Actions running Python tests.
+    * Setting up local environment with or without Docker
 
-## Assignment 1
+## Assignments
+
+* Send pull-request to our repository adding a json file to the `participants/` folder.
+    * The filename is `your_github_user.json` in lower-case
+    * It contains at least one field, `github` with your username again.
+
+* Setup PyDigger locally and run the tests
 
 
 
