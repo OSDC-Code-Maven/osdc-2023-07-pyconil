@@ -33,6 +33,7 @@ and you have the understanding of how to contribute to some other project
 
 * What will we do today?
     * Pull-request to this project - a JSON file, CI, fixing
+    * Python testing demo
 
 ## Assignment 1
 
