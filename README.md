@@ -27,8 +27,25 @@ You are expected to bring your own computer that already has Python installed an
 
 ## Session:
 
+
+* What stops you from contributing to an open source project?
+* What is contribution to an open source project?
+* How to select an open source project to contribute to? [Which open source project to work on?](https://code-maven.com/slides/osdc/which-project)
+    * A project you already use
+    * GitHub: [Explore](https://github.com/explore) - [Topics](https://github.com/topics)
+    * [DL](https://github.com/topics/deep-learning) - [Deep Learning](https://github.com/topics/deep-learning)
+    * [PyTorch](https://github.com/topics/pytorch)
+    * [PyDigger](https://pydigger.com/)
+* Least commit / frequency of commit
+* Open issues / Open pull-requets
+* Set up local development environment
+    * [Flask](https://github.com/pallets/flask)
+    * [PyDigger](https://github.com/szabgab/pydigger.com)
+    * ...
+
+
 Contributing to a complex project is, well, complex.
-We'll start small and hopefull by the end of the day you will have conbtributed to at least one project
+We'll start small and hopefully by the end of the day you will have conbtributed to at least one project
 and you have the understanding of how to contribute to some other project
 
 * What will we do today?
@@ -48,7 +65,13 @@ and you have the understanding of how to contribute to some other project
     * The filename is `your_github_user.json` in lower-case
     * It contains at least one field, `github` with your username again.
 
-* Setup PyDigger locally and run the tests
+* Setup PyDigger locally and run the tests.
+
+* Find a project that does **not** have instructions how to set up the local development environment and run the tests. Set it up, send a PR explaining how to do that.
+
+* Find a project that has tests, but no CI. Configure GitHub Actions.
+
+* Find a project that does not have (enough) tests. Write a test.
 
 
 
