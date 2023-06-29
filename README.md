@@ -65,6 +65,8 @@ and you have the understanding of how to contribute to some other project
     * The filename is `your_github_user.json` in lower-case
     * It contains at least one field, `github` with your username again.
 
+* Send a pull-request to the [List of all awesome lists](https://github.com/szabgab/awesome-lists).
+
 * Setup PyDigger locally and run the tests.
 
 * Find a project that does **not** have instructions how to set up the local development environment and run the tests. Set it up, send a PR explaining how to do that.
