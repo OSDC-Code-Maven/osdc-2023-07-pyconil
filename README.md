@@ -27,32 +27,42 @@ You are expected to bring your own computer that already has Python installed an
 
 ## Session:
 
-
-* What stops you from contributing to an open source project?
-* What is contribution to an open source project?
-* How to select an open source project to contribute to? [Which open source project to work on?](https://code-maven.com/slides/osdc/which-project)
-    * A project you already use
-    * GitHub: [Explore](https://github.com/explore) - [Topics](https://github.com/topics)
-    * [DL](https://github.com/topics/deep-learning) - [Deep Learning](https://github.com/topics/deep-learning)
-    * [PyTorch](https://github.com/topics/pytorch)
-    * [PyDigger](https://pydigger.com/)
-* Least commit / frequency of commit
-* Open issues / Open pull-requets
-* Set up local development environment
-    * [Flask](https://github.com/pallets/flask)
-    * [PyDigger](https://github.com/szabgab/pydigger.com)
-    * ...
-
-
-Contributing to a complex project is, well, complex.
-We'll start small and hopefully by the end of the day you will have conbtributed to at least one project
-and you have the understanding of how to contribute to some other project
+* Self introduction
+* Contributing to a complex project is, well, complex. We'll start small and hopefully by the end of the day you will have conbtributed to at least one project and you have the understanding of how to contribute to some other project
 
 * What will we do today?
     * Pull-request to this project - a JSON file, CI, fixing
     * Introduction to Python testing.
     * Show GitHub Actions running Python tests.
     * Setting up local environment with or without Docker
+
+
+* What stops you from contributing to an open source project?
+* What is a contribution to an open source project?
+    * Anwering a question on Stack Overflow
+    * Opening and issue
+    * Improving the documentation
+    * Writing a test
+    * Setting up Continuous Integration
+    * Fixing a bug
+    * Implementing a feature
+* How to select an open source project to contribute to? [Which open source project to work on?](https://code-maven.com/slides/osdc/which-project)
+    * A project you already use
+    * GitHub Topic
+        * [Explore](https://github.com/explore) - [Topics](https://github.com/topics)
+        * [DL](https://github.com/topics/deep-learning) - [Deep Learning](https://github.com/topics/deep-learning)
+        * [PyTorch](https://github.com/topics/pytorch)
+    * Metrics:
+        * Latest commit
+        * Frequency of commit
+        * Open issues
+        * Open pull-requets
+    * [PyDigger](https://pydigger.com/) - low hanging fruits
+* Set up local development environment
+    * [Flask](https://github.com/pallets/flask)
+    * [PyDigger](https://github.com/szabgab/pydigger.com)
+    * ...
+    * [Development Containers](https://containers.dev/) - [devcontainers for VS Code](https://code.visualstudio.com/docs/devcontainers/containers)
 
 ## Communities
 
@@ -74,6 +84,4 @@ and you have the understanding of how to contribute to some other project
 * Find a project that has tests, but no CI. Configure GitHub Actions.
 
 * Find a project that does not have (enough) tests. Write a test.
-
-
 
