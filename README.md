@@ -28,6 +28,7 @@ You are expected to bring your own computer that already has Python installed an
 ## Session:
 
 * Self introduction
+* [my open pull-requests](https://github.com/search?q=is%3Aopen%20is%3Apr%20author%3Aszabgab%20archived%3Afalse%20&type=pullrequests)
 * Contributing to a complex project is, well, complex. We'll start small and hopefully by the end of the day you will have conbtributed to at least one project and you have the understanding of how to contribute to some other project
 
 * What will we do today?
