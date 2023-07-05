@@ -86,3 +86,10 @@ You are expected to bring your own computer that already has Python installed an
 
 * Find a project that does not have (enough) tests. Write a test.
 
+
+## Notes
+
+* [The 2022 December CI Challenge](https://code-maven.com/2022-december-ci-challenge)
+* [Projects](https://osdc.code-maven.com/projects)
+* [Bobby Tables](https://bobby-tables.com/)
+
