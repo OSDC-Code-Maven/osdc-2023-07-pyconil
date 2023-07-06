@@ -4,11 +4,9 @@
 
 * Single-day event on: 2023.07.05
 
-## TOC
-
 ## Videos
 
-No videos, this is a class-room worksop.
+No videos, this was a class-room worksop.
 
 
 ## My first contribution to an Open Source Python project
